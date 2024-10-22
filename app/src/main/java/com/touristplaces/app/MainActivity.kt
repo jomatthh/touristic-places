@@ -12,6 +12,5 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         //changed 1
         //changed 2
-        //change 3
     }
 }
